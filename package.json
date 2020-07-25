@@ -1,0 +1,24 @@
+{
+  "name": "passport-donationalerts",
+  "version": "0.1.0",
+  "description": "Passport strategy for authenticating with DonationAlerts",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "donationalerts",
+    "da",
+    "passport",
+    "passport.js"
+  ],
+  "author": "Brocaster",
+  "license": "MIT",
+  "dependencies": {
+    "passport-oauth2": "^1.5.0"
+  },
+  "devDependencies": {
+    "jest": "^26.1.0",
+    "passport": "^0.4.1"
+  }
+}
