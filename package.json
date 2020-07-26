@@ -1,8 +1,12 @@
 {
   "name": "passport-donationalerts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Passport strategy for authenticating with DonationAlerts",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MrBrocaster/passport-donationalerts.git"
+  },
   "scripts": {
     "test": "jest"
   },
